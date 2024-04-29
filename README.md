@@ -34,7 +34,7 @@ During the initial stages of the project, we conducted exploratory data analysis
 
 ## Dashboard
  Explore our dynamic Pizza sales analysis dashboard:
-- [Full Project](https://github.com/Timmycode1/Excel-Pizza-Shop-Data-Analysis/blob/main/Pizza%20Sales%20Project.xlsx)
+- [Full Project](https://github.com/Timmycode1/Sportify-Music-Analysis/blob/main/Sportify%20Music%20Analysis.pbix)
 
 
 
